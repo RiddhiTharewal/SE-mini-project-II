@@ -49,4 +49,20 @@ Truffle
 
 ## Sequence Diagram
 
-![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/sequence.jpg)
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/sequence.jpeg)
+
+## Output Screenshot
+
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/sreenshot/login.png)
+
+
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/sreenshot/NGO_register.png)
+
+
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/sreenshot/User_register.png)
+
+
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/sreenshot/NGO_dashboard.png)
+
+
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/sreenshot/User_dashboard.png)
