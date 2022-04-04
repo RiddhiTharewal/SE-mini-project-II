@@ -53,16 +53,16 @@ Truffle
 
 ## Output Screenshot
 
-![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/sreenshot/login.png)
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Screenshot/login.png)
 
 
-![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/sreenshot/NGO_register.png)
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Screenshot/register_ngo.png)
 
 
-![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/sreenshot/User_register.png)
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Screenshot/register_user.png)
 
 
-![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/sreenshot/NGO_dashboard.png)
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Screenshot/NGO_dashboard.png)
 
 
-![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/sreenshot/User_dashboard.png)
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Screenshot/User_dashboard.png)
