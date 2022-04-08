@@ -35,13 +35,10 @@ Truffle
 
 ![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/Activity1.jpg)
 
-## Collaboration Diagram
-
-![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/collabration.png)
 
 ## Component Diagram
 
-![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/component2.png)
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/Component.png)
 
 ## State Diagram
 
