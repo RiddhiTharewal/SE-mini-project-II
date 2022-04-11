@@ -33,7 +33,7 @@ Truffle
 
 ## Class Diagram
 
-![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/Class.jpeg)
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/cls1.jpeg)
 
 ## Activity Diagram
 
