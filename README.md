@@ -27,6 +27,10 @@ Truffle
 
 ![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/ER_diagram.png)
 
+## Use case diagram
+![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/usecase__f.png)
+
+
 ## Class Diagram
 
 ![alt text](https://github.com/RiddhiTharewal/SE-mini-project-II/blob/main/Images/Class.jpeg)
